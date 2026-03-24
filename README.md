@@ -2,6 +2,8 @@
 
 This repo contains my work for Harvard's **CS50: Introduction to Computer Science** 2025.
 
+[Course link](https://cs50.harvard.edu/x/)
+
 Completed Weeks:
 - Week 0: Scratch
 - Week 1: C
@@ -11,7 +13,6 @@ Completed Weeks:
 - Week 5: Data Structures
 - Week 6: Python
 
-- [Course link](https://cs50.harvard.edu/x/)
 
 > **Note**: My solutions are intended for academic reference and personal review only. If you are a current student, please follow academic policies. 
 
